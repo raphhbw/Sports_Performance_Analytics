@@ -1,5 +1,4 @@
-Sports Performance Analytics
-====
+##Sports Performance Analytics
 
 Following Coursera course on: [**Sports Performance Analytics Specialization**](https://www.coursera.org/specializations/sports-analytics#courses)
 
