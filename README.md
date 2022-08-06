@@ -8,3 +8,16 @@ Series of 5 courses:
 * [Prediction Models with Sports Data](https://www.coursera.org/learn/prediction-models-sports-data?specialization=sports-analytics)
 * [Wearable Technologies and Sports Analytics](https://www.coursera.org/learn/wearable-technologies?specialization=sports-analytics)
 * [Introduction to Machine Learning in Sports Analytics](https://www.coursera.org/learn/machine-learning-sports-analytics?specialization=sports-analytics)
+
+**Environment**:
+All dependencies for the notebooks can be installed in an environment
+
+```shell
+conda create --name sportsci --file requirements.txt
+```
+You can activate and deactivate the environment with
+
+```shell
+conda activate sportsci
+conda deactivate sportsci
+```
